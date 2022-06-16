@@ -1,0 +1,85 @@
+/*preheader*/
+
+.header_contacts-item-link:hover {
+    color: #CC9933;
+  
+  }
+  
+  .header_contacts-item-link:focus{
+    color:#CC9933;
+    border: 1px solid #CC9933;
+    padding: 2px;
+  
+  }
+  
+  .header_contacts-item-link:active {
+    color: #A47312;
+    border: none;
+  }
+
+
+  
+  .private-account:hover {
+    color: #E9C479;
+    background-image: url("../img/keyboard_tab_hover.svg");
+    background-position: left center;
+    background-size: 24px 24px;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+  
+  }
+  
+  .private-account:focus{
+    color:#CC9933;
+    border: 1px solid #CC9933;
+  
+  }
+  
+  .private-account:active {
+    color: #A47312;
+    border: none;
+  }
+
+  /* header  */
+
+  .header-list-item:hover {
+    color: #CC9933;
+  
+  }
+  
+  .header-list-item:focus{
+    color:#CC9933;
+    border: 1px solid #CC9933;
+    padding: 2px;
+  
+  }
+  
+  .header-list-item:active {
+    color: #A47312;
+    border: none;
+  }
+
+
+
+  .header-button:hover{
+    background: #CC9933;
+    color: #ffffff;
+  }
+  
+  
+  .header-button:focus {
+    background: #CC9933;
+    color: #ffffff;
+  }
+  
+  .header-button:active {
+    background: #A47312;
+    color: #ffffff;
+  }
+  
+  
+  .header-button:default {
+    background: #FFFFFF;
+    color: #cc9933;
+  }
+  
